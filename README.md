@@ -45,7 +45,7 @@ Serving on http://0.0.0.0:5000 ...
 ```
 Wedyn, bydd modd i chi ymweld â http://0.0.0.0:5000 a gweld y delweddiad canlynol:
 
-![image](/uploads/751eb97e4ebe0647ab4de2dc98c6b335/image.png)
+![image](https://user-images.githubusercontent.com/10194573/157477614-b58f5b8b-43d3-4e54-aead-b78e61fbc396.png)
 
 Diolch i Lywodraeth Cymru am ariannu'r gwaith hwn fel rhan o broject Technoleg Cymraeg 2021-22. 
 
@@ -95,6 +95,6 @@ Serving on http://0.0.0.0:5000 ...
 
 This will enable you to visit http://0.0.0.0:5000 in your browser and see the following:
 
-![image](/uploads/751eb97e4ebe0647ab4de2dc98c6b335/image.png)
+![image](https://user-images.githubusercontent.com/10194573/157477641-fdd7e07e-e6f7-421a-9233-df13b3f9d90b.png)
 
 We thank the Welsh Government for funding this work as part of the Technoleg Cymraeg 2021-22 project.
