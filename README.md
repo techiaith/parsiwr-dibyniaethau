@@ -1,4 +1,4 @@
-Ymgais i ddrafftio'r ddogfennaeth:
+[English Below](#welsh-dependency-parser-for-spacy)
 
 # Parsiwr Dibyniaethau Cymraeg spaCy
 
