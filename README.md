@@ -6,7 +6,7 @@ Dyma gydran parsio dibyniaethau Cymraeg ar gyfer spaCy. Fe'i hyfforddwyd ar Corp
 
 Yn ogystal â pharsio dibyniaethau, mae'r model hefyd yn tagio rhannau ymadrodd ac yn darparu gwybodaeth forffolegol.
 
-Dylid nodi bod y corpws hyfforddi a ddefnyddwyd yn trin berfenwau fel enwau (h.y. ‘nouns’) yn ddieithriad, ac er bod hynny'n un dehongliad dilys, gall y ffaith bod y model yn gwneud hynny brofi’n wahanol i ddisgwyliad y sawl sydd wedi arfer trin berfenwau fel berfau o fewn cymalau berfol. Gweler https://github.com/UniversalDependencies/UD_Welsh-CCG/ am ddogfennaeth y corpws hyfforddi. Ein bwriad yn y dyfodol yw gallu darparu dadansoddiad berfol ac enwol o’r berfenw o fewn fframwaith drawsieithol Universal Dependencies.
+Dylid nodi bod y corpws hyfforddi a ddefnyddiwyd yn trin berfenwau fel enwau (h.y. ‘nouns’) yn ddieithriad, ac er bod hynny'n un dehongliad dilys, gall y ffaith bod y model yn gwneud hynny brofi’n wahanol i ddisgwyliad y sawl sydd wedi arfer trin berfenwau fel berfau o fewn cymalau berfol. Gweler https://github.com/UniversalDependencies/UD_Welsh-CCG/ am ddogfennaeth y corpws hyfforddi. Ein bwriad yn y dyfodol yw gallu darparu dadansoddiad berfol ac enwol o’r berfenw o fewn fframwaith drawsieithol Universal Dependencies.
 
 ## Gosod a Defnyddio'r Model
 
