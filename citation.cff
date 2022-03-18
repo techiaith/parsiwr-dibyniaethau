@@ -1,0 +1,78 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Parsiwr Dibyniaethau Cymraeg spaCy/Welsh Dependency
+  Parser for spaCy
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gruffudd
+    family-names: Prys
+    email: g.prys@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+    orcid: 'https://orcid.org/0000-0002-2910-2460'
+  - given-names: Gareth Llewellyn
+    family-names: Watkins
+    email: g.watkins@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+    orcid: 'https://orcid.org/0000-0001-8929-0718'
+abstract: >-
+  Dyma gydran parsio dibyniaethau Cymraeg ar gyfer
+  spaCy. Fe'i hyfforddwyd ar Corpws Cystrawennol y
+  Gymraeg, sef corpws Universal Dependencies a
+  anodwyd gan Dr Johannes Heinecke ac sydd ar gael o
+  https://github.com/UniversalDependencies/UD_Welsh-CCG/
+  dan drwydded CC-BY-SA.
+
+
+  Yn ogystal â pharsio dibyniaethau, mae'r model
+  hefyd yn tagio rhannau ymadrodd ac yn darparu
+  gwybodaeth forffolegol.
+
+
+  Dylid nodi bod y corpws hyfforddi a ddefnyddiwyd yn
+  trin berfenwau fel enwau (h.y. ‘nouns’) yn
+  ddieithriad, ac er bod hynny'n un dehongliad dilys,
+  gall y ffaith bod y model yn gwneud hynny brofi’n
+  wahanol i ddisgwyliad y sawl sydd wedi arfer trin
+  berfenwau fel berfau o fewn cymalau berfol. Gweler
+  https://github.com/UniversalDependencies/UD_Welsh-CCG/
+  am ddogfennaeth y corpws hyfforddi. Ein bwriad yn y
+  dyfodol yw gallu darparu dadansoddiad berfol ac
+  enwol o’r berfenw o fewn fframwaith drawsieithol
+  Universal Dependencies.
+
+
+  This is a Welsh-language Dependency Parser for
+  spaCy. It was trained on Corpws Cystrawennol y
+  Gymraeg, a Universal Dependencies corpus annotated
+  by Dr Johannes Heinecke which is available from
+  https://github.com/UniversalDependencies/UD_Welsh-CCG/
+  under a CC-BY-SA licence.
+
+
+  In addition to parsing dependencies, the model also
+  tags parts of speech and provides morphological
+  information.
+
+
+  Note that the training corpus used treats verbnouns
+  as nouns without exception, and whilst this is a
+  valid analysis, the model's adherence to this
+  practice may be unexpected to those used to
+  treating verbnouns as verbs within verb phrases. In
+  the future, we intend to enable both analyses
+  within Universal Dependencies' crosslingual
+  framework.
+keywords:
+  - Welsh Language
+  - spaCy
+  - Dependency Parser
+  - Universal Dependencies
+license: CC-BY-SA-4.0
+version: '22.03'
+date-released: '2022-03-11'
