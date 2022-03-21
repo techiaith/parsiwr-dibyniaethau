@@ -20,6 +20,8 @@ authors:
     email: g.watkins@bangor.ac.uk
     affiliation: Bangor University Language Technologies Unit
     orcid: 'https://orcid.org/0000-0001-8929-0718'
+notes: "Gareth Watkins - Cyfraniad ieithyddol/Linguistic contribution, Gruffudd Prys - Cyfraniad ieithyddol a thechnegol/Linguistic and technical contribution"
+url: https://github.com/techiaith/parsiwr-dibyniaethau
 abstract: >-
   Dyma gydran parsio dibyniaethau Cymraeg ar gyfer
   spaCy. Fe'i hyfforddwyd ar Corpws Cystrawennol y
