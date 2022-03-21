@@ -6,8 +6,12 @@ title: >-
   Parsiwr Dibyniaethau Cymraeg spaCy/Welsh Dependency
   Parser for spaCy
 message: >-
-  If you use this dataset, please cite it using the
-  metadata from this file.
+  Er ein bod yn rhyddhau'r data hwn o dan drwydded
+  MIT, gofynwn yn garedig i chi ystyried rhoi
+  cydnabyddiaeth i'r gwaith hwn. | While we are
+  releasing this data under the MIT licence, should
+  you use this resource, we kindly ask you to
+  consider acknowledging our work.
 type: software
 authors:
   - given-names: Gruffudd
