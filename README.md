@@ -2,7 +2,13 @@
 
 # Parsiwr Dibyniaethau Cymraeg spaCy
 
-Dyma gydran parsio dibyniaethau Cymraeg ar gyfer spaCy. Fe'i hyfforddwyd ar Corpws Cystrawennol y Gymraeg, sef corpws Universal Dependencies a anodwyd gan Dr Johannes Heinecke ac sydd ar gael o https://github.com/UniversalDependencies/UD_Welsh-CCG/ dan drwydded CC-BY-SA.
+Dyma gydran parsio dibyniaethau Cymraeg ar gyfer spaCy.
+
+Mae ar gael o:
+
+https://github.com/techiaith/parsiwr-dibyniaethau/releases/download/23.03/cy_ud_cy_ccg-0.0.1.tar.gz
+
+Fe'i hyfforddwyd ar Corpws Cystrawennol y Gymraeg, sef corpws Universal Dependencies a anodwyd gan Dr Johannes Heinecke ac sydd ar gael o https://github.com/UniversalDependencies/UD_Welsh-CCG/ dan drwydded CC-BY-SA.
 
 Yn ogystal â pharsio dibyniaethau, mae'r model hefyd yn tagio rhannau ymadrodd ac yn darparu gwybodaeth forffolegol.
 
@@ -14,7 +20,7 @@ Er mwyn defnyddio’r gydran hon, bydda angen i chi yn gyntaf osod llyfrgell spa
 
 Unwaith y bydd rheini wedi eu gosod gennych, gallwch osod y model fel a ganlyn drwy lwytho'r pecyn i lawr a llywio i'r cyfeiriadur lle cafodd y ffeil ei lawrlwytho a rhedeg:
 
-`pip install cy_ud_cy_ccg-0.0.0.tar.gz` 
+`pip install cy_ud_cy_ccg-0.0.1.tar.gz` 
 
 Yna, o fewn sgript Python, gallwch lwytho’r model fel a ganlyn:
 
@@ -45,13 +51,19 @@ Serving on http://0.0.0.0:5000 ...
 ```
 Wedyn, bydd modd i chi ymweld â http://0.0.0.0:5000 a gweld y delweddiad canlynol:
 
-![image](https://user-images.githubusercontent.com/10194573/157477614-b58f5b8b-43d3-4e54-aead-b78e61fbc396.png)
+![Screenshot 2023-03-23 at 13-12-10 displaCy](https://user-images.githubusercontent.com/10194573/227214997-a85c8bd8-f317-44be-8aee-245f6447a511.png)
 
 Diolch i Lywodraeth Cymru am ariannu'r gwaith hwn fel rhan o broject Technoleg Cymraeg 2021-22. 
 
 # Welsh Dependency Parser for spaCy
 
-This is a Welsh-language Dependency Parser for spaCy. It was trained on Corpws Cystrawennol y Gymraeg, a Universal Dependencies corpus annotated by Dr Johannes Heinecke which is available from https://github.com/UniversalDependencies/UD_Welsh-CCG/ under a CC-BY-SA licence.
+This is a Welsh-language Dependency Parser for spaCy.
+
+It is available from:
+
+https://github.com/techiaith/parsiwr-dibyniaethau/releases/download/23.03/cy_ud_cy_ccg-0.0.1.tar.gz
+
+It was trained on Corpws Cystrawennol y Gymraeg, a Universal Dependencies corpus annotated by Dr Johannes Heinecke which is available from https://github.com/UniversalDependencies/UD_Welsh-CCG/ under a CC-BY-SA licence.
 
 In addition to parsing dependencies, the model also tags parts of speech and provides morphological information.
 
@@ -63,7 +75,7 @@ To use this component, you should first install the spaCy library (https://spacy
 
 Once these are installed, install the model as follows after downloading the package and navigating to directory where the file was downloaded:
 
-`pip install cy_ud_cy_ccg-0.0.0.tar.gz` 
+`pip install cy_ud_cy_ccg-0.0.1.tar.gz` 
 
 Then, within a Python script, the model can be loaded and used as follows:
 
@@ -95,6 +107,6 @@ Serving on http://0.0.0.0:5000 ...
 
 This will enable you to visit http://0.0.0.0:5000 in your browser and see the following:
 
-![image](https://user-images.githubusercontent.com/10194573/157477641-fdd7e07e-e6f7-421a-9233-df13b3f9d90b.png)
+![Screenshot 2023-03-23 at 13-12-10 displaCy](https://user-images.githubusercontent.com/10194573/227214997-a85c8bd8-f317-44be-8aee-245f6447a511.png)
 
 We thank the Welsh Government for funding this work as part of the Technoleg Cymraeg 2021-22 project.
